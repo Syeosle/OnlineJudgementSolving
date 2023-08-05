@@ -1,0 +1,1 @@
+print(len(input().replace('dz=',' ').replace('=','').replace('-','').replace('lj',' ').replace('nj',' ')))
